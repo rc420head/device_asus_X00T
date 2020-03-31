@@ -609,6 +609,9 @@
     <!-- Radius of the software rounded corners. -->
     <dimen name="rounded_corner_radius">14dp</dimen>
 
+    <!-- Smart replies in notifications: Whether we disable the feature unless the app targets P -->
+    <bool name="config_smart_replies_in_notifications_requires_targeting_p">false</bool>
+
     <!-- Smart Charging is available. -->
     <bool name="config_smartChargingAvailable">true</bool>
 
