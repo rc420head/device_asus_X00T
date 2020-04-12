@@ -118,10 +118,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.additionalbutton.operation=0 \
     sys.autosuspend.timeout=500000
 
-# OEM Unlock reporting
-PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
-    ro.oem_unlock_supported=1
-
 # Play store
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.com.google.clientidbase.ms=android-asus-tpin \
