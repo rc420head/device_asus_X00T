@@ -28,7 +28,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
-#TARGET_GAPPS_ARCH := arm64
+TARGET_GAPPS_ARCH := arm64
 
 PRODUCT_BRAND := asus
 PRODUCT_DEVICE := X00T
