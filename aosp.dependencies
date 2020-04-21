@@ -1,0 +1,14 @@
+[
+ {
+   "remote": "github",
+   "repository": "Vivekachooz/proprietary_vendor_asus",
+   "target_path": "vendor/asus",
+   "branch": "ten"
+ },
+ {
+   "remote": "github",
+   "repository": "Vivekachooz/android_kernel_asus_sdm660",
+   "target_path": "kernel/asus/sdm660",
+   "branch": "ten"
+ }
+] 
