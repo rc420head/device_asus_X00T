@@ -128,5 +128,9 @@ void vendor_check_variant()
 
 void vendor_load_properties()
 {
+    property_override("org.evolution.build_donate_url", "https://PayPal.me/vivekachoooz");
+    property_override("org.evolution.build_maintainer", "Achooz");
+    property_override("org.evolution.build_support_url", "https://t.me/EvolutionXX00T");
+
     vendor_check_variant();
 }
