@@ -59,7 +59,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.camera.eis.enable=1 \
     persist.vendor.camera.ois.disable=1 \
     persist.vendor.camera.is_type=4 \
-    vendor.camera.hal1.packagelist=com.whatsapp,com.instagram.android
+    vendor.camera.hal1.packagelist=com.whatsapp,com.facebook.katana,com.instagram.android,com.snapchat.android
 
 # Dalvik overrides
 PRODUCT_PROPERTY_OVERRIDES += \
